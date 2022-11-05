@@ -1,6 +1,6 @@
 # Praktikum4
 
-# Belajar struktur kondisi dan perulangan pda python
+# Belajar struktur kondisi dan perulangan pada python
 
 
 1. Membuat folder dengan nama Praktikum4 lalu didalamnya kita buat dua folder lagi yaitu **Struktur Kondisi** dan **Perulangan** dan di dalam folder tersebut kita buat file **Latihan1.py** dan **Latihan2.py**
